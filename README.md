@@ -1,6 +1,6 @@
 ### Collaborative-Project  
 
-Collaborators: Alexa Aguirre, Bernardo Arambula  
+Collaborators: Alexa Aguirre, Bernardo Arambula, Yumi Jin  
 
 Driven by the shared passion and interest in Web-scraping and Machine learning, we performed two collaborative projects.  
 
